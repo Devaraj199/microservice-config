@@ -10,7 +10,7 @@ build:
 accounts:
   message: "Welcome to eazybank account related local QA APIs"
   contactDetails:
-    name: "Mahesh kumar QA Lead"
+    name: "Mahesh kumar pradhan  QA Lead"
     email: "maheshkumar@gmail.com"
   onCallSupport:
     -(91)-9182571620
