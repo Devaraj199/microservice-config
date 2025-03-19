@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to eazybank account related local APIs"
+  message: "Welcome to eazybank account related(From git hub) local APIs"
   contactDetails:
      name: "Devaraj Developer"
      email: "Deva@gmail.com"
